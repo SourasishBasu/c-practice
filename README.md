@@ -1,7 +1,7 @@
 # C-projects
 C practice programs
 
-[![C](https://img.shields.io/badge/C-Practice-red)]
+![C](https://img.shields.io/badge/C-Practice-blue)
 [![Windows](https://img.shields.io/badge/Windows-11-brightgreen?style=flat&logo=windows)]()
 
 
